@@ -1,0 +1,2 @@
+# Splatoonost
+yes
